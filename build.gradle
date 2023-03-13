@@ -1,5 +1,0 @@
-apply plugin:'base'
-
-task hello {
-    println "hello world"
-}
